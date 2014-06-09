@@ -1,0 +1,41 @@
+# KillerBlood
+# Version 1.0
+# By Xaidinatorx2000X
+# To edit blood on mobs do it like this if you want every 
+# thing players and all mobs to have make all true
+# Set it to false then edit it you want only some to bleed
+
+Send Stats: enabled
+Worlds: all
+Old Blood: false
+Entitys:
+  All: true
+  Bat: false
+  Blaze: false
+  Cave Spider: false
+  Chicken: false
+  Cow: false
+  Creeper: false
+  Enderman: false
+  Ghast: false
+  Giant: false
+  Horse: false
+  Iron Golem: false
+  Magma Cube: false
+  Mushroom Cow: false
+  Ocelot: false
+  Pig: false
+  Player: false
+  Sheep: false
+  Silverfish: false
+  Skeleton: false
+  Slime: false
+  Snowman: false
+  Spider: false
+  Squid: false
+  Villager: false
+  Witch: false
+  Wither: false
+  Wolf: false
+  Zombie: false
+  Zombie Pigman: false
